@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+.main-body{
+    height: 570px;
+    width: 100%;
+    top:0;
+    background-color:#727885;
+}
+.content{
+    color: salmon;
+    padding: 40px;
+    font-size: large;
+}
+.count{
+    font-size: 75px;
+    font-weight: bold;
+    line-height: 1.7;
+    color:whitesmoke;
+}
+.button1,.button2{
+    width: 400px;
+    height: 40px;
+    border-radius: 8px;
+    border: 0;
+    display: block;
+    
+   margin-left: 440px;
+   background-color: salmon;
+   color: whitesmoke;
+   font-size: large;
+   font-weight: bold;
+   text-align: center;
+   cursor: pointer;
+   opacity: 2;
+}
+.button2{
+    margin-top: 30px;
+}
